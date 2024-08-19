@@ -1,0 +1,12 @@
+[
+    {
+        "soil_type": "Loamy",
+        "pH_level": "6.0-7.0",
+        "nutrient_level": "High"
+    },
+    {
+        "soil_type": "Clay",
+        "pH_level": "5.5-6.5",
+        "nutrient_level": "Medium"
+    }
+]

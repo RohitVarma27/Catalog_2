@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Corn",
+        "season": "Summer",
+        "soil_type": "Loamy"
+    },
+    {
+        "name": "Wheat",
+        "season": "Winter",
+        "soil_type": "Clay"
+    }
+]
