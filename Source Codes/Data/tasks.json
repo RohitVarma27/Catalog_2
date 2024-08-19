@@ -1,1 +1,26 @@
-
+[
+    {
+        "description": "Water the corn field",
+        "due_date": "2024-08-20",
+        "priority": "High",
+        "notes": "Check irrigation system for leaks"
+    },
+    {
+        "description": "Apply fertilizer to the wheat crop",
+        "due_date": "2024-08-25",
+        "priority": "Medium",
+        "notes": "Use nitrogen-rich fertilizer"
+    },
+    {
+        "description": "Inspect for pests in the rice field",
+        "due_date": "2024-08-22",
+        "priority": "High",
+        "notes": "Focus on aphids and blast disease"
+    },
+    {
+        "description": "Harvest soybeans",
+        "due_date": "2024-09-05",
+        "priority": "Low",
+        "notes": "Ensure beans are fully mature"
+    }
+]

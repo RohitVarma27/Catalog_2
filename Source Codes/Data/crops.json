@@ -1,1 +1,30 @@
-
+[
+    {
+        "name": "Corn",
+        "season": "Summer",
+        "soil_type": "Loamy",
+        "water_requirements": "High",
+        "average_yield_per_acre": "150 bushels"
+    },
+    {
+        "name": "Wheat",
+        "season": "Winter",
+        "soil_type": "Clay",
+        "water_requirements": "Medium",
+        "average_yield_per_acre": "100 bushels"
+    },
+    {
+        "name": "Rice",
+        "season": "Monsoon",
+        "soil_type": "Floodplain",
+        "water_requirements": "Very High",
+        "average_yield_per_acre": "2000 kg"
+    },
+    {
+        "name": "Soybean",
+        "season": "Summer",
+        "soil_type": "Silty",
+        "water_requirements": "Medium",
+        "average_yield_per_acre": "50 bushels"
+    }
+]

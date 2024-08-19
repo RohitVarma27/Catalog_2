@@ -1,1 +1,30 @@
-
+[
+    {
+        "soil_type": "Loamy",
+        "pH_level": "6.0-7.0",
+        "nutrient_level": "High",
+        "texture": "Sandy-clay",
+        "water_retention": "Good"
+    },
+    {
+        "soil_type": "Clay",
+        "pH_level": "5.5-6.5",
+        "nutrient_level": "Medium",
+        "texture": "Heavy",
+        "water_retention": "Poor"
+    },
+    {
+        "soil_type": "Sandy",
+        "pH_level": "6.0-7.0",
+        "nutrient_level": "Low",
+        "texture": "Coarse",
+        "water_retention": "Very Poor"
+    },
+    {
+        "soil_type": "Silty",
+        "pH_level": "6.0-7.5",
+        "nutrient_level": "High",
+        "texture": "Fine",
+        "water_retention": "Good"
+    }
+]

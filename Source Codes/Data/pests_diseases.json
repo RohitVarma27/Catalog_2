@@ -1,1 +1,30 @@
-
+[
+    {
+        "name": "Aphids",
+        "crop_affected": "Corn",
+        "remedy": "Use insecticidal soap",
+        "symptoms": "Curling leaves, stunted growth",
+        "control_measures": "Introduce ladybugs"
+    },
+    {
+        "name": "Rust Fungus",
+        "crop_affected": "Wheat",
+        "remedy": "Apply fungicide",
+        "symptoms": "Rust-colored pustules on leaves",
+        "control_measures": "Rotate crops"
+    },
+    {
+        "name": "Blast Disease",
+        "crop_affected": "Rice",
+        "remedy": "Use resistant varieties",
+        "symptoms": "Brown lesions on leaves",
+        "control_measures": "Improve drainage"
+    },
+    {
+        "name": "Soybean Cyst Nematode",
+        "crop_affected": "Soybean",
+        "remedy": "Use nematode-resistant varieties",
+        "symptoms": "Stunted growth, yellowing leaves",
+        "control_measures": "Crop rotation"
+    }
+]
